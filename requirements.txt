@@ -1,5 +1,5 @@
 absl-py==1.4.0
-ale-py==0.8.1
+ale-py==0.10.1
 asttokens==2.2.1
 astunparse==1.6.3
 audioread==3.0.0
